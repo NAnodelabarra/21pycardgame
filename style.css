@@ -10,7 +10,7 @@
 	}
 	body
 	{
-		margin: 0;
+		margin: 40;
 		float: left;
 	}
 	input,textarea,select
@@ -20,7 +20,7 @@
 	
 	body, h1, h2, h3, h4, h5, h6
 	{
-		margin: 0 0 0.75em 0;
+		margin: 0.15em;
 		color: #1B1B1B;
 	}
 
